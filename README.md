@@ -1,6 +1,6 @@
 # AIClock
 
-AI clock
+智能闹钟
 
 ## QuickStart
 
@@ -31,3 +31,4 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+
