@@ -4,8 +4,16 @@
   "description": "AI clock",
   "private": true,
   "dependencies": {
+    "@types/moment": "^2.13.0",
     "egg": "^2.2.1",
-    "egg-scripts": "^2.5.0"
+    "egg-scripts": "^2.5.0",
+    "fs": "0.0.1-security",
+    "lame": "^1.2.4",
+    "moment": "^2.22.2",
+    "path": "^0.12.7",
+    "speaker": "^0.4.1",
+    "stream": "0.0.2",
+    "xunfeisdk": "^1.0.1"
   },
   "devDependencies": {
     "autod": "^3.0.1",
